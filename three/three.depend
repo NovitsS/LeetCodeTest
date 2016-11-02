@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478071655 source:e:\suanfa\three\main.c
+	<stdio.h>
+	<stdlib.h>
+
